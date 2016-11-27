@@ -1,0 +1,5 @@
+Paragon
+Nazwa: mleko, Cena jednostkowa: 2, Ilość :3, Łączna cena: 6
+Nazwa: chleb, Cena jednostkowa: 3, Ilość :4, Łączna cena: 12
+Nazwa: Proszek, Cena jednostkowa: 4, Ilość :6, Łączna cena: 24
+Suma: 42

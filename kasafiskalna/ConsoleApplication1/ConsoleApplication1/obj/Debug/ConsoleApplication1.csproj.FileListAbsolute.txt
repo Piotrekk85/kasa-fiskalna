@@ -4,3 +4,9 @@ D:\Budzich Przemek\cw6chyba\ConsoleApplication1\ConsoleApplication1\bin\Debug\Co
 D:\Budzich Przemek\cw6chyba\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 D:\Budzich Przemek\cw6chyba\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\Budzich Przemek\cw6chyba\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Piotrek\Desktop\Kasa fiskalna\1\kasa-fiskalna-master\kasafiskalna\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Piotrek\Desktop\Kasa fiskalna\1\kasa-fiskalna-master\kasafiskalna\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Piotrek\Desktop\Kasa fiskalna\1\kasa-fiskalna-master\kasafiskalna\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Piotrek\Desktop\Kasa fiskalna\1\kasa-fiskalna-master\kasafiskalna\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Piotrek\Desktop\Kasa fiskalna\1\kasa-fiskalna-master\kasafiskalna\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Piotrek\Desktop\Kasa fiskalna\1\kasa-fiskalna-master\kasafiskalna\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

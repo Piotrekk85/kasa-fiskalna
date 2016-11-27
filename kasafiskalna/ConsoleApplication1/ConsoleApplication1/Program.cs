@@ -10,9 +10,12 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Dzień dobry!");
             Aplikacja nowe = new Aplikacja();
             nowe.WczytajKlawisz();
-            nowe.WykonajDzialanie(Convert.ToChar(Console.ReadLine()));
+            nowe.WykonajDzialanie();
+            Console.WriteLine("Do widzenia!");
+            Console.ReadKey();
 
         }
     }
